@@ -1,7 +1,7 @@
 # Machine-Learning-Project
 In this project, I implemented and compared several popular architectures in convolutional neural networks (CNNs) 
 and some new architectures for the classification tasks on the image datasets: MNIST and Fashion-MNIST.
-I tested these datasets on LeNet, MLP, and a custom neural network architecture. For each dataset and CNN model, worked on the following steps:
+I tested these datasets on LeNet, MLP, and a custom neural network architecture. For each dataset and CNN model, worked on the following steps using Python:
 - Loading the data set
 - Exploring a few examples and visualize these images
 - Creating a validation set and preprocessing the images 
